@@ -19,3 +19,10 @@ custom_fields:
 
 ## index ##
 empty
+
+
+
+samples
+https://www.aakashweb.com/docs/git-it-write/faq/
+
+https://profiles.wordpress.org/vaakash/
